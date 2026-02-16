@@ -1,18 +1,20 @@
-# 🧠 Sagatech ERP/CRM
+# 🧠 Sagatech – ERP/CRM Modular
 
-Sistema modular de gestión empresarial desarrollado como proyecto real.
+Proyecto colaborativo de desarrollo de un sistema ERP/CRM modular orientado a gestión empresarial.
 
-## 🚀 Descripción
+---
 
-Sagatech es una plataforma ERP/CRM diseñada para gestionar:
+## 👨‍💻 Mi participación
 
-- 📋 Tareas
-- 📁 Proyectos
-- 📅 Próximos eventos
-- 👥 Participantes
-- 🔐 Sistema estructurado por módulos
+Como desarrollador participé en:
 
-Arquitectura pensada para escalabilidad y separación de responsabilidades.
+- Desarrollo del módulo de **Tareas**
+- Integración con módulo de **Proyectos**
+- Conexión con API REST
+- Implementación de filtros dinámicos
+- Organización de componentes en Astro
+- Mejora de estructura y mantenibilidad del frontend
+- Corrección de lógica de inserciones múltiples
 
 ---
 
@@ -32,29 +34,25 @@ Arquitectura pensada para escalabilidad y separación de responsabilidades.
 
 ## 🏗 Arquitectura
 
-- API REST propia
 - Separación frontend / backend
+- API REST propia
 - Base de datos relacional
-- Componentización modular
+- Diseño modular escalable
+- Estructuración por componentes reutilizables
 
 ---
 
-## 🎯 Objetivos técnicos
+## 🎯 Enfoque técnico
 
-- Diseño limpio y mantenible
-- Estructura escalable
-- Buenas prácticas de organización
-- Gestión eficiente de datos
-
----
-
-## 🔮 Futuras mejoras
-
-- Autenticación de usuarios
-- Control de roles
-- Dashboard analítico
-- Despliegue en servidor cloud
+- Código organizado y mantenible
+- Separación de responsabilidades
+- Orientación a escalabilidad
+- Optimización de experiencia de usuario
 
 ---
 
-Proyecto desarrollado por José Antonio Ferrero.
+## 📌 Nota
+
+El código fuente no es público al tratarse de un proyecto colaborativo.
+Disponible para revisión técnica en entrevista.
+
